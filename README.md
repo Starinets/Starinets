@@ -30,11 +30,11 @@ Sometimes I take online courses to learn from other developers and improve my sk
 
 | Project     | Description | Technologies |
 | --- | --- | --- |
-| [![Six cities](https://raw.githubusercontent.com/Starinets/Starinets/main/images/six-cities-preview.jpg)](https://github.com/Starinets/1340827-six-cities-5) [Six cities](https://github.com/Starinets/1340827-six-cities-5) | A vacation rental online marketplace build on React. It provides detailed information about current offers, allows users to log in, leave a review, see offers' locations on map and more. | JavaScript(ES6),<br>React,<br>Redux,<br>Jest,<br>Enzyme,<br>Leaflet,<br>Webpack |
-| [![Big Trip](https://raw.githubusercontent.com/Starinets/Starinets/main/images/big-trip-preview.jpg)](https://github.com/Starinets/1340827-big-trip-12) [Big Trip](https://github.com/Starinets/1340827-big-trip-12) | A trip planner SPA. Users can create itinerary, calculate expenses and get information about tourist attractions located near the destinations included in the trip. | JavaScript ES6,<br>Webpack,<br>Chart.js, Flatpickr.js,<br>Moment.js |
-| [![Keksobooking](https://raw.githubusercontent.com/Starinets/Starinets/main/images/keksobooking-preview.jpg)](https://github.com/Starinets/1340827-keksobooking-20) [Keksobooking](https://github.com/Starinets/1340827-keksobooking-20) | A web application that allows users to see rented properties in downtown Tokyo, filter them. Also allows you to add your rental offer with detailed description and features. | JavaScript(ES5),<br>MVC pattern |
-| [![Pink](https://raw.githubusercontent.com/Starinets/Starinets/main/images/pink-preview.jpg)](https://starinets.github.io/1340827-pink-20) [Pink](https://github.com/Starinets/1340827-pink-20) | A markup of a responsive promo site of application "Pink" for coloring gray everyday in pink color. | Gulp,<br>HTML5,<br>SASS,<br>BEM,<br>cross browser compatibility |
-| [![Device](https://raw.githubusercontent.com/Starinets/Starinets/main/images/device-preview.jpg)](https://starinets.github.io/1340827-device-27) [Device](https://github.com/Starinets/1340827-device-27) | An e-commerce website of a store called Device. Device store specializes in gadgets. | HTML5,<br>CSS3,<br>JavaScript (ES5),<br>cross browser compatibility |
+| [![Six cities](https://raw.githubusercontent.com/Starinets/Starinets/main/images/six-cities-preview.jpg)](https://github.com/Starinets/htmlacademy-six-cities) [Six cities](https://github.com/Starinets/htmlacademy-six-cities) | A vacation rental online marketplace build on React. It provides detailed information about current offers, allows users to log in, leave a review, see offers' locations on map and more. | React, <br>Redux, <br>Jest, <br>Enzyme, <br>Webpack, <br>Leaflet |
+| [![Big Trip](https://raw.githubusercontent.com/Starinets/Starinets/main/images/big-trip-preview.jpg)](https://github.com/Starinets/htmlacademy-big-trip) [Big Trip](https://github.com/Starinets/htmlacademy-big-trip) | A trip planner SPA. Users can create itinerary, calculate expenses and get information about tourist attractions located near the destinations included in the trip. | JavaScript ES6 (MVC patteren), <br>Webpack, <br>Chart.js, <br>Flatpickr.js, <br>Moment.js |
+| [![Keksobooking](https://raw.githubusercontent.com/Starinets/Starinets/main/images/keksobooking-preview.jpg)](https://starinets.github.io/htmlacademy-keksobooking/) [Keksobooking](https://github.com/Starinets/htmlacademy-keksobooking) | A web application that allows users to see rented properties in downtown Tokyo, filter them. Also allows you to add your rental offer with detailed description and features. | JavaScript(ES5) |
+| [![Pink](https://raw.githubusercontent.com/Starinets/Starinets/main/images/pink-preview.jpg)](https://starinets.github.io/htmlacademy-pink) [Pink](https://github.com/Starinets/htmlacademy-pink) | A markup of a responsive promo site of application "Pink" for coloring gray everyday in pink color. | Gulp, <br>HTML5, <br>SASS, <br>BEM, <br>cross browser compatibility |
+| [![Device](https://raw.githubusercontent.com/Starinets/Starinets/main/images/device-preview.jpg)](https://starinets.github.io/htmlacademy-device) [Device](https://github.com/Starinets/htmlacademy-device) | An e-commerce website of a store called Device. Device store specializes in gadgets. | HTML5, <br>CSS3, <br>JavaScript (ES5), <br>cross browser compatibility |
 </details>
 
 ### How to reach me
@@ -53,20 +53,3 @@ Sometimes I take online courses to learn from other developers and improve my sk
 <a href="https://www.facebook.com/tsn.ipad/">
   <img align="left" alt="Yevgeniy`s Facebook" width="22px" src="https://raw.githubusercontent.com/Starinets/Starinets/main/images/fb.svg" />
 </a>
-
-<!--
-**Starinets/Starinets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![](https://visitor-badge.glitch.me/badge?page_id=Starinets.Starinets)
--->
